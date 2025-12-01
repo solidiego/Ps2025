@@ -1,0 +1,13 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs e Arquivos Temporários
+*.log
+tmp/
+temp/
+
+# Credenciais de Segurança (CRÍTICO PARA GOVERNANÇA)
+senhas.txt
+.env
+keys/
